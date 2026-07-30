@@ -71,8 +71,8 @@ O que ele faz:
 
 Construído em **HTML, CSS e JavaScript puros**, sem frameworks.
 
-[![Repositório](https://img.shields.io/badge/Ver_o_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucianoWeschenfelder/controle-empenhos)
-[![Demonstração](https://img.shields.io/badge/Testar_online-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://lucianoweschenfelder.github.io/controle-empenhos](https://lucianoweschenfelder.github.io/controle-empenhos-v1/))
+[![Repositório](https://img.shields.io/badge/Ver_o_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucianoWeschenfelder/controle-empenhos-v1)
+[![Demonstração](https://img.shields.io/badge/Testar_online-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucianoweschenfelder.github.io/controle-empenhos-v1/login.html)
 
 
 ---
