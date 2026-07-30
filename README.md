@@ -74,12 +74,6 @@ Construído em **HTML, CSS e JavaScript puros**, sem frameworks.
 [![Repositório](https://img.shields.io/badge/Ver_o_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucianoWeschenfelder/controle-empenhos)
 [![Demonstração](https://img.shields.io/badge/Testar_online-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucianoweschenfelder.github.io/controle-empenhos)
 
----
-
-## 📊 GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=LucianoWeschenfelder&show_icons=true&hide_border=true&theme=dark)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoWeschenfelder&layout=compact&hide_border=true&theme=dark)
 
 ---
 
