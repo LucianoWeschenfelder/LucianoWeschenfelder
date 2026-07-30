@@ -82,12 +82,6 @@ Construído em **HTML, CSS e JavaScript puros**, sem frameworks.
 > *"Não sei tudo, e conto com isso. O que não domino, eu pesquiso, testo e aprendo
 > no caminho."*
 
-Foi assim que resolvi leitura de PDF, OCR e armazenamento local — coisas que eu
-não sabia fazer quando comecei o projeto.
-
-Também prefiro entender o problema antes de sair codando. A parte mais difícil do
-Controle de Empenhos não foi a tela: foi descobrir que **pedir e receber são
-coisas distintas**, e que só o segundo abate saldo.
 
 ---
 
